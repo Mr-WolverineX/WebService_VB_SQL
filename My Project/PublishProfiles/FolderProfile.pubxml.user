@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>http://localhost/WebSite1VB</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/wsDemo03VB.dll">
+      <publishTime>04/20/2019 14:56:04</publishTime>
+    </File>
+    <File Include="bin/wsDemo03VB.pdb">
+      <publishTime>04/20/2019 14:56:04</publishTime>
+    </File>
+    <File Include="bin/wsDemo03VB.xml">
+      <publishTime>04/20/2019 14:56:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/20/2019 14:56:05</publishTime>
+    </File>
+    <File Include="wsDemo03VB.asmx">
+      <publishTime>04/20/2019 14:19:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
